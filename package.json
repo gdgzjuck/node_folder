@@ -1,0 +1,38 @@
+{
+  "name": "node_folder",
+  "version": "1.0.0",
+  "description": "myNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdgzjuck/node_folder.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "gdgzjuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdgzjuck/node_folder/issues"
+  },
+  "homepage": "https://github.com/gdgzjuck/node_folder#readme",
+  "devDependencies": {
+     "babel": "^6.3.26",
+    "bcrypt": "^0.8.5",
+    "body-parser": "*",
+    "cookie-parser": "^1.4.1",
+    "ejs": "*",
+    "express": "4.x",
+    "express-session": "^1.13.0",
+    "kerberos": "0.0.18",
+    "mongodb-core": "^1.3.2",
+    "mongoose": "^4.3.7",
+    "mount-routes": "^1.0.6",
+    "node-uuid": "^1.4.7",
+    "redis": "^2.4.2",
+    "session": "^0.1.0"
+  }
+}
